@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class SortingWords {
 
-	//globalde tanımlamamım herhangi bir sebebi yok öylesine :D
 	static Scanner sc = new Scanner(System.in);
 	static String alfabe = "defgauğıvijçklümnocöprsyhbştz"; 
 	static String[] kelime = {"Ahmet","Ayşe","Mehmet","Defassa","Defazzz","dEfine","SElam","NAber"};
